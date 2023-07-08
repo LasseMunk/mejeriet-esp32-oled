@@ -1,1 +1,2 @@
-# Mejeriet ESP32 0.91 inch OLED
+# Mejeriet + ESP32 DevKit 01 + 0.91 inch OLED
+
