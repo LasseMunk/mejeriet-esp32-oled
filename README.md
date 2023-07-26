@@ -31,6 +31,6 @@ https://www.instructables.com/Blinking-an-LED-With-ESP32/
 
 - The Cathode of the super bright LED's are the chipped corner
 
-  ## OSC Communication with ESP32
-  https://github.com/CNMAT/OSC
-  
+## OSC Communication with ESP32
+https://github.com/CNMAT/OSC/blob/master/examples/ESP8266ReceiveMessage/ESP8266ReceiveMessage.ino
+
