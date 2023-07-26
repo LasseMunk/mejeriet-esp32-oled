@@ -30,3 +30,7 @@ https://www.instructables.com/Blinking-an-LED-With-ESP32/
 - Connect the free end of the resistor to pin D5 on the ESP32, shown as the red wire.
 
 - The Cathode of the super bright LED's are the chipped corner
+
+  ## OSC Communication with ESP32
+  https://github.com/CNMAT/OSC
+  
